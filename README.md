@@ -1,11 +1,11 @@
-### 201readingNote
+# 201readingNote
 
-## Code 201 Reading Notes
+# Code 201 Reading Notes
 
-This reading note is for a Code 201 where we will take about an _*introduction to web development*_ and more advanced in a web development .
+This reading note is for a Code 201 where we will take about an _**introduction to web development**_ and more advanced in a web development .
 
 
-# Table of contenent :
+## **Table of contenent** :
 
    #read             | Reading assignement
   ------------------ | ------------------- 
