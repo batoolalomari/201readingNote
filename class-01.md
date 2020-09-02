@@ -15,8 +15,6 @@
 
 # Structure
 
-## HTM L Us es El ements to Describe the Structure of Pages
-
    The HTML code is made up of characters that live inside angled brackets — these are called HTML elements. Elements are usually made up of two tags: an opening tag and a closing tag. (The closing tag has an extra forward slash in it.) Each HTML element tells the browser something about the information that sits between its opening and closing tags.
 
     <html>
@@ -35,6 +33,8 @@
     </body>
     </html>
       
+ ## HTML Uses Elements to Describe the Structure of Pages 
+  HTML has several different elements each element has an **Opening** and **Closing** tags
   
   
   
