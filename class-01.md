@@ -33,10 +33,12 @@
     </body>
     </html>
     
-    ![Html Structure](HTML structure)
+    ![Html Structure](html structure)
       
  ## HTML Uses Elements to Describe the Structure of Pages 
   HTML has several different elements each element has an **Opening** and **Closing** tags
+  
+  ![Description](desc)
   
   
   
