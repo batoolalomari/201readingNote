@@ -20,7 +20,7 @@ This reading note is for a Code 201 where we will take about an _**introduction 
   Read: 09 - | Forms and Events
   Read: 10 - | JS Debugging
   Read: 11 - | Assorted Topics
-  Read: 12 -| Docs for the HTML *_<canvas>_* Element & Chart.js
+  Read: 12 - | Docs for the HTML (canvas) Element & Chart.js
   Read: 13 - | Local Storage
   Read: 14 - | CSS Transforms, Transitions, and Animations
   Read: 15 - | What Google Learned About Teams
