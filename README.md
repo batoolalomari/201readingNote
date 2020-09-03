@@ -9,7 +9,7 @@ This reading note is for a Code 201 where we will take about an _**introduction 
 
    Read#             | Reading Topics
   ------------------ | ------------------- 
-  Read: 01 -  | Introductory HTML and JavaScript
+  [Read: 01 -](https://batoolalomari.github.io/201readingNote/class-01)  | Introductory HTML and JavaScript
   Read: 02 -  |  HTML Text, CSS Introduction, and Basic JavaScript Instructions
   Read: 03 -|  HTML Lists, CSS Boxes, JS Control Flow
   Read: 04 - | HTML Links, CSS Layout, JS Functions
