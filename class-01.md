@@ -56,11 +56,11 @@
    
    Some HTML Element | Example 
    ----------------- | ----------------- 
-   commint | (<!-- -->)
-   block | (<h1>, <p>, <ul>, and <li>)
-   inline | (<a>)
-   inframe | (<inframe>)
-   information | (<meta>)
+   commint | (< !-- -- >)
+   block | (< h1 >, < p >, < ul >, and < li >)
+   inline | (< a >)
+   inframe | (< inframe >)
+   information | (< meta >)
   
   
  ##  Grouping Text & Elements In a Block
@@ -87,10 +87,10 @@
    
    Some HTML attribute | Example 
    ------------------- | ----------------- 
-   id | (<p id="pullquote">)
-   class | (<p class="important">)
-   inframe | (<inframe>)
-   information | (<meta>)
+   id | (< p id="pullquote" >)
+   class | (< p class="important" >)
+   inframe | (< inframe >)
+   information | (< meta >)
    
  
  
