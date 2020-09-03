@@ -21,12 +21,9 @@
 # Structure
 
 
-   The HTML code is made up of characters that live inside angled brackets — these are called HTML elements. Elements are usually made up of two tags: an opening tag and a closing tag. (The closing tag has an extra forward slash in it.) Each HTML element tells the browser something about the information that sits between its opening and closing tags.
-   
-   DOCTYPES tell browsers which version of HTML you are using.
+   The HTML code is made up of characters that live inside angled brackets — these are called HTML elements. Elements are usually made up of two tags: an opening tag and a closing tag. (The closing tag has an extra forward slash in it.) Each HTML element tells the browser something about the information that sits between its opening and closing tags. DOCTYPES tell browsers which version of HTML you are using.
    
    
-
     <html>
     <body>
     <h1>This is the Main Heading</h1>
@@ -59,17 +56,17 @@
    
    Some HTML Element | Example 
    ----------------- | ----------------- 
-   commint | <!-- -->
-   block | <h1>, <p>, <ul>, and <li>
-   inline | <a>
-   inframe | <inframe>
-   information | <meta>
+   commint | (<!-- -->)
+   block | (<h1>, <p>, <ul>, and <li>)
+   inline | (<a>)
+   inframe | (<inframe>)
+   information | (<meta>)
   
   
  ##  Grouping Text & Elements In a Block
  
- ## **<div> element**
-   The <div> element allows you to group a set of elements together in one block-level box.
+ ## **(<div>) element**
+   The (<div>) element allows you to group a set of elements together in one block-level box.
    
     <div id="header">
     <img src="images/logo.gif" alt="Anish Kapoor" />
@@ -90,12 +87,12 @@
    
    Some HTML attribute | Example 
    ------------------- | ----------------- 
-   id | <p id="pullquote">
-   class | <p class="important">
-   inframe | <inframe>
-   information | <meta>
+   id | (<p id="pullquote">)
+   class | (<p class="important">)
+   inframe | (<inframe>)
+   information | (<meta>)
    
- # 
+ 
  
  
   
