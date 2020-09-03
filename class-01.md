@@ -65,8 +65,8 @@
   
  ##  Grouping Text & Elements In a Block
  
- ## **(<div>) element**
-   The (<div>) element allows you to group a set of elements together in one block-level box.
+ ## **(< div >) element**
+   The ( < div > ) element allows you to group a set of elements together in one block-level box.
    
     <div id="header">
     <img src="images/logo.gif" alt="Anish Kapoor" />
@@ -92,7 +92,14 @@
    inframe | (< inframe >)
    information | (< meta >)
    
- 
+
+# HTML5 Layout
+
+
+   HTML5 introduces a new set of elements that allow you to divide up the parts of a page. The names of these elements indicate the kind of content you will find in them. The point of creating these new elements is so that web page authors can use them to help describe the structure of the page. 
+   
+   
+   
  
  
   
