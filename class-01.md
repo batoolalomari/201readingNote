@@ -44,12 +44,16 @@
    
    
       
+      
  ## HTML Uses Elements to Describe the Structure of Pages 
+ 
  
   HTML has several different elements each element has an **Opening** and **Closing** tags
   
   
    ![Description](open.png)        ![Description](close.png)
+   
+   
    
    
    
@@ -63,10 +67,15 @@
    information | (< meta >)
   
   
+  
+  
  ##  Grouping Text & Elements In a Block
  
- ## **(< div >) element**
+ 
+ ## **< div > element**
+ 
    The ( < div > ) element allows you to group a set of elements together in one block-level box.
+   
    
     <div id="header">
     <img src="images/logo.gif" alt="Anish Kapoor" />
@@ -78,12 +87,18 @@
     </ul>
     </div><!-- end of header -->
      
+     
+     
   
  ## Attributes Tell Us More About Elements 
+ 
  
    Attributes provide additional information about the contents of an element. They appear on the opening tag of the element and are made up of two parts: a name and a value,  separated by an equals sign.
    
    ![Description](attribute.png)
+   
+   
+   
    
    Some HTML attribute | Example 
    ------------------- | ----------------- 
@@ -93,12 +108,14 @@
    information | (< meta >)
    
 
+
+
 # HTML5 Layout
 
 
    HTML5 introduces a new set of elements that allow you to divide up the parts of a page. The names of these elements indicate the kind of content you will find in them. The point of creating these new elements is so that web page authors can use them to help describe the structure of the page. 
    
-   
+   ![Html5](html.png)
    
  
  
