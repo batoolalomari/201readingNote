@@ -155,25 +155,32 @@
  
  
  
-# a process that you can use when you are creating a new website.
+# A process that you can use when you are creating a new website.
 
   How to approach building a site
   
-   1- Who is the Site For?
-   2- Why People Visit YOUR Website
-   3- What Your Visitors are Trying to Achieve
-   4- How Of ten People Will Visit Your Site
+   1-Who is the Site For?
+   2-Why People Visit YOUR Website
+   3-What Your Visitors are Trying to Achieve
+   4-How Of ten People Will Visit Your Site
    
   It's important to understand who your target audience is, why they would come to your site, what information they want to find and when they are likely to return.
+  
   
   ## Site Maps
   
   Site maps allow you to plan the structure of a site.
   
+  ![Html5](map.png)
+  
+  
+  
   
   ## WireFrames
   
   A wireframe is a simple sketch of the key information that needs to go on each page of a site. It shows the hierarchy of the information and how much space it might require , it allow you to organize the information that will need to go on each page.
+  
+  ![Html5](wir.png)
   
   
   
