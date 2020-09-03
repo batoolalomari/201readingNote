@@ -110,6 +110,8 @@
 
 
 
+
+
 # HTML5 Layout
 
 
@@ -117,6 +119,25 @@
    
    ![Html5](html.png)
    
+   
+  ## Headers & Footers
+   
+   The <header> and <footer> elements can be used for:
+     ● The main header or footer that appears at the top or bottom of every page on the site.
+     ● A header or footer for an individual <article> or <section> within the page.
+    
+  ## Navigation
+  
+   The <nav> element is used to contain the major navigational blocks on the site such as the primary site navigation.
+   
+  ## Articles
+  
+   The <article> element acts as a container for any section of a page that could stand alone and potentially be syndicated. This could be an individual article or blog entry, a comment or forum post, or any other independent piece of content.
+  
+  
+  ## Section 
+  
+   The <section> element groups related content together, and typically each section would have its own heading.
  
  
   
