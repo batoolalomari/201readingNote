@@ -122,7 +122,7 @@
    
   ## Headers & Footers
    
-   The <header> and <footer> elements can be used for:
+   The < header > and < footer > elements can be used for:
      ● The main header or footer that appears at the top or bottom of every page on the site.
      ● A header or footer for an individual <article> or <section> within the page.
   
@@ -132,7 +132,7 @@
     
   ## Navigation
   
-   The <nav> element is used to contain the major navigational blocks on the site such as the primary site navigation.
+   The < nav > element is used to contain the major navigational blocks on the site such as the primary site navigation.
   
    ![Html5](nav.png)
    
@@ -140,7 +140,7 @@
    
   ## Articles
   
-   The <article> element acts as a container for any section of a page that could stand alone and potentially be syndicated. This could be an individual article or blog entry, a comment or forum post, or any other independent piece of content.
+   The < article > element acts as a container for any section of a page that could stand alone and potentially be syndicated. This could be an individual article or blog entry, a comment or forum post, or any other independent piece of content.
   
    ![Html5](artical.png)
   
@@ -148,11 +148,32 @@
   
   ## Section 
   
-   The <section> element groups related content together, and typically each section would have its own heading.
+   The < section > element groups related content together, and typically each section would have its own heading.
   
    ![Html5](sec.png)
  
  
+ 
+ 
+# a process that you can use when you are creating a new website.
+
+  How to approach building a site
+  
+   1- Who is the Site For?
+   2- Why People Visit YOUR Website
+   3- What Your Visitors are Trying to Achieve
+   4- How Of ten People Will Visit Your Site
+   
+  It's important to understand who your target audience is, why they would come to your site, what information they want to find and when they are likely to return.
+  
+  ## Site Maps
+  
+  Site maps allow you to plan the structure of a site.
+  
+  
+  ## WireFrames
+  
+  A wireframe is a simple sketch of the key information that needs to go on each page of a site. It shows the hierarchy of the information and how much space it might require , it allow you to organize the information that will need to go on each page.
   
   
   
