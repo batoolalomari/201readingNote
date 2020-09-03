@@ -33,13 +33,19 @@
     </body>
     </html>
     
-    ![Html Structure](htmlstructure.png)           ![Description](desc.png)
+   ![Html Structure](htmlstructure.png)           ![Description](desc.png)
       
  ## HTML Uses Elements to Describe the Structure of Pages 
   HTML has several different elements each element has an **Opening** and **Closing** tags
+  
+  
       ![Description](open.png)        ![Description](close.png)
   
-  
+ ## Attributes Tell Us More About Elements 
+ 
+   Attributes provide additional information about the contents of an element. They appear on the opening tag of the element and are made up of two parts: a name and a value,  separated by an equals sign.
+   
+   ![Description](attribute.png)
   
   
   
