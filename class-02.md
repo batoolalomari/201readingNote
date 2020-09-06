@@ -31,7 +31,7 @@
    
    
    
-  [head](head.png)
+  ![head](head.png)
    
    
    
@@ -41,7 +41,7 @@
    
    
    
-  [paragraph](par.png)
+  ![paragraph](par.png)
    
    
    
@@ -53,7 +53,7 @@
   **< i >** :  By enclosing words in the tags **< i > and < /i >** we can make characters appear italic.
   
   
-  [B & I](BI.png)
+  ![B & I](BI.png)
   
   
   
@@ -64,7 +64,7 @@
    **< sub >** : The <sub> element is used to contain characters that should be subscript. It is commonly used with foot notes or chemical formulas such as H20.
    
    
-   [B & I](sub.png)
+   ![B & I](sub.png)
    
    
    
