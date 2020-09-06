@@ -155,6 +155,41 @@
   ![Break](prob.png)
   
   
+   #### Using External CSS
+   
+   **< link >** : The <link> element can be used in an HTML document to tell the browser where to find the CSS file used to style the page.It should use three attributes:
+  
+  - **href**
+    This specifies the path to the CSS file.
+   
+  - **type** 
+    This attribute specifies the type of document being linked to. The value should be text/css.
+
+  - **rel**
+    This specifies the relationship between the HTML page and the file it is linked to. The value should be stylesheet when linking to a CSS file.
+   
+   
+   
+   ### Using Internal CSS
+   
+   **< style >**
+    You can also include CSS rules within an HTML page by placing them inside a <style> element, which usually sits inside the <head> element of the page. The <style> element    should use the type attribute to indicate that the styles are specified in CSS. The value should be text/css.
+   
+   [style](style.png)
+   
+   
+   
+   ### Selectors
+   
+   There are many different types of CSS selector that allow you to target rules to specific elements in an HTML document.CSS selectors are case sensitive, so they must match element names and attribute values exactly.
+   
+   
+   [style](sel.png)
+   
+   
+    
+  
+  
   
   
    
