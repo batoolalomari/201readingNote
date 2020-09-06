@@ -56,7 +56,7 @@
    
   ## Bold & Italic
 
-  **< b> ** : By enclosing words in the tags **< b > and < /b >** we can make characters appear bold.
+  **< b>** : By enclosing words in the tags **< b > and < /b >** we can make characters appear bold.
 
   **< i >** :  By enclosing words in the tags **< i > and < /i >** we can make characters appear italic.
   
@@ -175,7 +175,10 @@
    **< style >**
     You can also include CSS rules within an HTML page by placing them inside a <style> element, which usually sits inside the <head> element of the page. The <style> element    should use the type attribute to indicate that the styles are specified in CSS. The value should be text/css.
    
-   [style](style.png)
+   
+   
+   ![style](style.png)
+   
    
    
    
@@ -184,7 +187,9 @@
    There are many different types of CSS selector that allow you to target rules to specific elements in an HTML document.CSS selectors are case sensitive, so they must match element names and attribute values exactly.
    
    
-   [style](sel.png)
+   
+   
+   ![style](sel.png)
    
    
     
