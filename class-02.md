@@ -101,8 +101,31 @@
     
 
 # **Semantic markup**:
+
+  ## Strong & Emphasis
+ 
+  **< strong >** : The use of the < strong > element indicates that its content has strong importance.
+ 
+  **< em >** : The < em > element indicates emphasis that subtly changes the meaning of a sentence. By default browsers will show the contents of an < em > element in italic.
+ 
+ 
+  ![Break](strong.png)
+  
+  
+  
+  
+  ## Quotations
+  
+   There are two elements commonly used for marking up quotations:
    
+   **< blockquote >** : The < blockquote > element is used for longer quotes that take up an entire paragraph. Note how the <p> element is still used inside the < blockquote > element.
+
    
+   **< q >** :  The < q > element is used for shorter quotes that sit within a paragraph. 
+
+  
+   
+   ![Break](qo.png)
    
 
 
