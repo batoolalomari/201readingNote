@@ -208,6 +208,35 @@
    
    
    
+# USING SWITCH STATEMENTS  
+
+  A switch statement starts with a variable called the switch value. Each case indicates a possible value for this variable and the code that should run if the variable matches that value.
+  
+    switch (level) {
+    case 'O ne ':
+    title= 'Level 1 ' ;
+    break;
+    case 'Two':
+    tit 1 e = ' Level 2 ' ;
+    break;
+    case ' Three' :
+    title = 'Level 3' ;
+    break ;
+    default :
+    title= 'Test';
+    break;
+    }
+    
+  
+  
+  ![switch](switch.png)
+  
+  
+  switch statements allow you to compare a value against possible outcomes (and also provides a default option if none match).
+  
+   
+  
+   
    
     
   
