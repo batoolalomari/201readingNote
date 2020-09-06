@@ -31,7 +31,7 @@
    
    
    
-   [head](head.png)
+  [head](head.png)
    
    
    
@@ -41,7 +41,7 @@
    
    
    
-   [paragraph](par.png)
+  [paragraph](par.png)
    
    
    
