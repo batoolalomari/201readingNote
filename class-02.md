@@ -1,5 +1,5 @@
 
-# Text Introduction
+# **Text Introduction**
 
    HTML elements are used to describe **the structure** of the page using *headings, subheadings, paragraphs*, also it provides **semantic information** such: emphasis should be placed, the definition of any acronyms used, when given text is a quotation.
    
@@ -14,7 +14,7 @@
    
 # **Structural markup**: 
 
-## Headings 
+  ## Headings 
 
    HTML has six "levels" of headings, the contents of an <h1> element is the largest, and the contents of an <h6> element is the smallest.
    
@@ -39,7 +39,7 @@
    
    
    
-## Paragraph
+  ## Paragraph
 
    To create a paragraph, surround the words that make up the paragraph with an **opening < p>  tag and closing < /p > tag**.
    
@@ -54,7 +54,7 @@
    
    
    
-## Bold & Italic
+  ## Bold & Italic
 
   **< b> ** : By enclosing words in the tags **< b > and < /b >** we can make characters appear bold.
 
@@ -72,7 +72,7 @@
   
   
   
-## Superscript & Subscript
+  ## Superscript & Subscript
 
    **< sup >** : The <sup> element is used to contain characters that should be superscript such as the suffixes of dates or mathematical concepts like raising a number to a power such as 22.
    
@@ -88,13 +88,14 @@
    
    
    
-## Line Breaks & Horizontal Rules
+  ## Line Breaks & Horizontal Rules
 
    **< br >** :By Using < br > you add a line break inside the middle of a paragraph you can use the line break tag < br />.
    
    **< hr / >**  you can add a horizontal rule between sections using the < hr /> tag. There are a few elements that do not have any words between an opening and closing tag. They are **known as empty elements** and they are written differently.
 
-    An empty element usually has only one tag. Before the closing angled bracket of an empty element there will often be a space and a forward slash character. 
+    An empty element usually has only one tag. Before the closing angled bracket of an empty 
+    element there will often be a space and a forward slash character. 
     
     
    ![Break](br.png)
@@ -126,6 +127,37 @@
   
    
    ![Break](qo.png)
+   
+   
+  
+# Introducing To CSS
+  
+  CSS allows you to create rules that specify how the content of an element should appear. For example, you can specify that the background of the page is cream, all paragraphs should appear in gray using the Arial typeface, or that all level one headings should be in a blue, italic, Times typeface.
+
+
+  ### CSS Associates Style rules with HT ML elements
+  
+   CSS works by associating rules with HTML elements. These rules govern how the content of specified elements should be displayed. 
+   A CSS rule contains two parts: a **selector and a declaration**.
+   
+   
+   
+   ![Break](select.png)
+   
+   
+   
+   
+  ### CSS Properties Affect How Elements Are Displayed
+  
+  CSS declarations sit inside curly brackets and each is made up of two parts: a property and a value, separated by a colon. You can specify several properties in one declaration, each separated by a semi-colon.
+  
+  
+  ![Break](prob.png)
+  
+  
+  
+  
+   
    
 
 
