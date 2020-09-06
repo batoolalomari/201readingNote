@@ -16,6 +16,9 @@
    
    
 # Headings 
+
+   HTML has six "levels" of headings, the contents of an <h1> element is the largest, and the contents of an <h6> element is the smallest.
+   
    
    head level    | tag
    ------------- | -------------  
@@ -25,6 +28,46 @@
    h4 | < h4 > This is a Level 4 Heading < /h4 >
    h5 | < h5 > This is a Level 5 Heading < /h5 >
    h6 | < h6 > This is a Level 6 Heading < /h6 >
+   
+   
+   
+   [head](head.png)
+   
+   
+   
+# Paragraph
+
+   To create a paragraph, surround the words that make up the paragraph with an **opening < p>  tag and closing < /p > tag**.
+   
+   
+   
+   [paragraph](par.png)
+   
+   
+   
+   
+# Bold & Italic
+
+  **< b> ** : By enclosing words in the tags **< b > and < /b >** we can make characters appear bold.
+
+  **< i >** :  By enclosing words in the tags **< i > and < /i >** we can make characters appear italic.
+  
+  
+  [B & I](BI.png)
+  
+  
+  
+# Superscript & Subscript
+
+   **< sup >** : The <sup> element is used to contain characters that should be superscript such as the suffixes of dates or mathematical concepts like raising a number to a power such as 22.
+   
+   **< sub >** : The <sub> element is used to contain characters that should be subscript. It is commonly used with foot notes or chemical formulas such as H20.
+   
+   
+   [B & I](sub.png)
+   
+   
+   
    
    
 
