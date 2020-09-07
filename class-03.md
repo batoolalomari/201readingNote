@@ -5,7 +5,9 @@
 
   HTML provides us with three different types:
   
-  ## Ordered lists :
+  
+  
+  ## **Oered lists**
  
    Are lists where each item in the list is numbered. For example,a legal contract where each point needs to be identified by a section number.
   
@@ -18,8 +20,12 @@
    **< li >**
    
    Each item in the list is placed between an opening < li > tag and a closing < /li > tag. **(The li stands for list item.)**
-      
-   Example :
+  
+  
+  
+  
+  
+  # Example :
       
         <ol>
         <li>Chop potatoes into quarters</li>
@@ -39,9 +45,10 @@
    
    
    
- ## Unordered lists :
+ ## **Unordered List**
  
    Are lists that begin with a bullet point (rather than characters that indicate order).
+   
    
    
    **< ul >**
@@ -52,6 +59,8 @@
   **< li >**
   
    Each item in the list is placed between an opening < li > tag and a closing < /li > tag. (The li stands for list item.)
+     
+     
      
      
   # Example :
@@ -71,25 +80,36 @@
    
    
    
+   
+   
  
- ## Definition lists :
+ ##  **Definition lists**
  
  
    Are made up of a set of terms along with the definitions for each of those terms.
+   
+   
    
    **< dl >**
    
    The definition list is created with the <  dl> element and usually consists of a series of terms and their definitions. Inside the < dl > element you will usually see pairs   of < dt > and < dd > elements.
    
    
+   
+   
    **< dt >**
+     
    
    This is used to contain the term being defined (the definition term).
+   
    
    
   **< dd >**
   
    This is used to contain the definition.
+   
+   
+   
    
    
   # Example :
@@ -113,10 +133,18 @@
         </dl>
    
    
-   [defList](dlist.png
    
    
- ## Nested List 
+   
+   ![defList](dlist.png)
+   
+   
+   
+   
+   
+ ## **Nested List **
+ 
+ 
   
    You can put a second list inside an < li > element to create a sublist or nested list.
         
@@ -139,7 +167,7 @@
         
         
         
-   ![nested](nlist.png
+   ![nested](nlist.png)
         
 
    
