@@ -6,8 +6,7 @@
   HTML provides us with three different types:
   
   
-  
-  ## **Oered lists**
+  ## Ordered List
  
    Are lists where each item in the list is numbered. For example,a legal contract where each point needs to be identified by a section number.
   
@@ -238,6 +237,35 @@
    
    
    ![overflow](over.png)
+   
+   
+   
+   
+   # Border, Margin & Padding
+   
+   Every box has three available properties that can be adjusted to control its appearance:
+   
+   1- Padding
+   2- Margin 
+   3- Border
+   
+   
+   
+   ![appear](appear.png)
+   
+   
+   
+   
+   ## Border
+   
+   
+   border      | tags        | note        | value
+   ----------- | ----------- | ----------- | ----------- 
+   border width | border-width | You cannot use percentages with this property | thin ,medium ,thick or pixcel
+   border style | border-style | You can individually change the styles of different borders using: border-top-style border-left-style border-right-style border-bottom-style | solid , double , none,groove ,dashed
+   border color | border-color | It is possible to individually control the colors of the borders using: border-top-color,border-right-color,border-bottom-color,border-left-color | You can specify the color of a border using either RGB values, hex codes or CSS color names
+   
+   
    
    
    
