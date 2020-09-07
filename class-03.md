@@ -173,4 +173,85 @@
    
    
    
- #
+ # Boxes 
+   
+   
+   You can set several properties that affect the appearance of these boxes. In this chapter you will see how to: 
+   
+   - Control the dimensions of your boxes
+   - Create borders around boxes
+   - Set margins and padding for boxes
+   - Show and hide boxes
+   
+   
+   ## Box Dimintions
+   
+   ### width, height
+   
+   
+   To set your own dimensions for a box you can use the height and width properties.The most popular ways to specify the size of a box are to use pixels, percentages, or ems. Traditionally, pixels have been the most popular method because they allow designers to accurately control their size.
+   
+   
+   # Example
+     
+           /** Html **/
+     <div>
+        <p>The Moog company pioneered the commercial
+            manufacture of modular voltage-controlled
+            analog synthesizer systems in the early
+             1950s.</p>
+    </div>
+    
+    
+          /**CSS**/
+          
+    div.box {
+        height: 300px;
+        width: 300px;
+        background-color: #bbbbaa;}
+    p {
+        height: 75%;
+        width: 75%;
+        background-color: #0088dd;}
+        
+        
+   ![box](box.png)
+   
+   
+   
+   ### Overflowing Content
+   
+   The overflow property tells the browser what to do if the content contained within a box is larger than the box itself. It can have one of two values:
+   
+   **hidden**
+      
+   This property simply hides any extra content that does not fit in the box.
+   
+   **scroll**
+   
+   This property adds a scrollbar to the box so that users can scrol
+   
+   
+   The overflow property is particularly handy because some browsers allow users to adjust the size of the text to appear as large or as small as they want.
+   If the text is set too large then the page can become an unreadable mess. Hiding the overflow on such boxes helps prevent items overlapping on the page.
+   
+   
+   
+   ![overflow](over.png)
+   
+   
+   
+   
+    
+    
+   
+   
+
+
+
+
+
+
+
+
+
