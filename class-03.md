@@ -311,7 +311,35 @@
    
    
    
- ##
+ # ARRAYS
+   
+   
+   An array is a special type of variable. It doesn't just store one value; it stores a list of values. Arrays are especially helpful when you do not know how many items a list will contain.
+   
+   ##   CREATING AN ARRAY
+   
+   You create an array and give it a name just like you would any other variable. The values are assigned to the array inside a pair of square brackets, and each value is separated by a comma. The values in the array do not need to be the same data type.
+   
+          colors= ['white',
+                    'black',
+                    'custom'];
+    
+    
+   ![array](array.png)
+   
+    
+    
+    
+   
+   ## ACCESSING & CHANGING VALUES IN AN ARRAY
+   
+   
+   
+   ![acess](access.png)
+   
+   
+   
+ # 
    
    
 
