@@ -39,7 +39,7 @@
    
    
    
- ### Unordered lists :
+ ## Unordered lists :
  
    Are lists that begin with a bullet point (rather than characters that indicate order).
    
@@ -72,7 +72,7 @@
    
    
  
- ### Definition lists :
+ ## Definition lists :
  
  
    Are made up of a set of terms along with the definitions for each of those terms.
@@ -113,10 +113,10 @@
         </dl>
    
    
-   ![defList](dlist)
+   [defList](dlist.png
    
    
- ### Nested List 
+ ## Nested List 
   
    You can put a second list inside an < li > element to create a sublist or nested list.
         
@@ -139,7 +139,7 @@
         
         
         
-   ![nested](nlist)
+   ![nested](nlist.png
         
 
    
