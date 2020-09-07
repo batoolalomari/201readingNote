@@ -267,6 +267,66 @@
    
    
    
+   # border- width
+   
+   ![width](width.png)
+   
+   # border-style
+   
+   ![width](style.png)
+    
+   # border-color
+   
+   ![width](color.png)
+   
+   
+   
+ ## Padding
+ 
+ The padding property allows ou to specify how much space hould appear between the ontent of an element and its order.  You can specify different values for ach side of a box using:
+ 
+ 
+   - padding-top
+   - padding-right
+   - padding-bottom
+   - padding-left
+   
+   
+   ![padding](padding.png)
+   
+   
+ ## Margin
+ 
+ The margin property controls the gap between boxes. Its value is commonly given in pixels,although you may also use percentages or ems.
+ 
+   You can specify values for each side of a box using:
+   
+   - margin-top
+   - margin-right
+   - margin-bottom
+   - margin-left
+   
+   
+   ![margin](margin.png)
+   
+   
+   
+ ##
+   
+   
+
+
+
+
+   
+ 
+   
+
+
+
+
+   
+   
    
    
    
