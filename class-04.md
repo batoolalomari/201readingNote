@@ -47,7 +47,7 @@
    
    
    
-   ![Link](lex)
+   ![Link](lex.png)
    
    
    
@@ -73,7 +73,7 @@
    
    
      
-   ![semanec link](slink)
+   ![semaneclink](slink.png)
      
      
      
@@ -84,7 +84,7 @@
   
   
   
-  ![mailto](mlink)
+  ![mailto](mlink.png)
   
   
   
