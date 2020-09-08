@@ -72,7 +72,24 @@
             </p>
    
    
+     
+   ![semanec link](slink)
+     
+     
+     
+     
+   ### Email Links
    
+  ** mailto:**  To create a link that starts up the user's email program and addresses an email to a specified email address, you use the < a > element. However, this time the value of the href attribute starts with mailto: and is followed by the email address you want the email to be sent to.
+  
+  
+  
+  ![mailto](mlink)
+  
+  
+  
+  
+  
    
    
    
