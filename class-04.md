@@ -135,7 +135,38 @@
                      updateMessage(};
    
   
+   ![function](fun.png)
    
+   
+   
+   
+   ### How to declare a function ?
+   
+   
+   ![declare](dfun.png)
+   
+   
+   
+   
+   
+   ### How to call a function ?
+   
+   
+   ![call](cfun.png)
+    
+    
+    
+   ![call](ddfun.png)
+   
+   
+   
+   
+    
+    
+    
+   
+    
+    
   
   
   
