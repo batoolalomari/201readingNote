@@ -161,6 +161,24 @@
    
    
    
+   ### How to declare a function tht need information ?
+   
+   
+   
+   ![dec](ddd.png)
+   
+   
+   
+   
+   
+   
+   
+   
+   ### How to call a function that need information ?
+    
+    
+    
+   ![call](cc.png)
     
     
     
