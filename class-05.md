@@ -258,7 +258,56 @@ You can also use CSS to include images in your pages using the **background-imag
    
    
    
+      
+# Text 
+
+  The properties that allow you to control the appearance of text can be split into two groups:   
+  
+  - Those that directly affect the font and its appearance
+  
+  - Those that would have the same effect on text no matter what font you were using
+  
+  
+   ### Typeface Terminology
    
+   
+   
+   ![texr](text.png)
+   
+   
+   
+   
+   
+   ![texr](text2.png)
+   
+   
+   
+   
+   
+ ### Choosing a Typeface for your Website
+ 
+   When choosing a typeface, it is important to understand that a browser will usually only display it if it's installed on that user's computer.
+   
+   
+   
+   ![text](text3.png)
+   
+   
+   
+   As a result, sites often use a small set of typefaces that are installed on most computers (shown above). There are some techniques to get around this limitation .
+It is possible to specify more than one typeface and create an order of preference (in case the user does not have your first choice of typeface
+installed). This is sometimes referred to as a font stack.
+
+
+
+  ![text](text4.png)
+  
+  
+  
+   
+   
+   
+  
    
  
  
