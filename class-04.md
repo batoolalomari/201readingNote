@@ -105,6 +105,27 @@
    If one block-level element sits inside another block-level element then the outer box is known as the **containing or parent element**.
    
    
+# Function , methood and object
+
+  Programmers use functions, methods, and objects to organize their code.
+  
+   ### WHAT IS A FUNCTION?
+   
+   Group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of st atements).
+   
+             <!DOCTYPE html>
+                  <html>
+                        <head>
+                              <ti t l e>Basic Function</title>
+                                    <l i nk rel ="stylesheet" href="cs s/ c03.css" />
+                        </head>
+                              <body>
+                                      <hl>TravelWorthy</ hl>
+                                    <div id="message">We lcome to our site! </ div>
+                                       <script src="js/ basic-function .js"></ script>
+                              </ body>
+   
+   
    
    
   
