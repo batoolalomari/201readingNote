@@ -154,7 +154,65 @@ You can also use CSS to include images in your pages using the **background-imag
    
    
    
-   ![img](alig.png)
+       ![img](alig.png)
+   
+   
+   
+   
+   
+   ### Aligning Images Vertically
+   
+   There are three values that the align attribute can take that control how the image should align vertically with the text that surrounds it:
+   
+   
+   - **top**
+  
+     This aligns the first line of the surrounding text with the top of the image.
+   
+   -**middle**
+   
+   This aligns the first line of the surrounding text with the middle of the image.
+
+   -**bottom**
+   
+   This aligns the first line of the surrounding text with the bottom of the image.
+   
+   
+                 <p><img src="images/bird.gif" alt="Bird" width="100"
+                              height="100" align="top" />There are around
+                                                          10,000 living species of birds that inhabit
+                                                          different ecosystems from the Arctic to the
+                                                          Antarctic. Many species undertake long distance
+                                                          annual migrations, and many more perform shorter
+                                                          irregular journeys.</p><hr />
+
+                <p><img src="images/bird.gif" alt="Bird" width="100"
+                              height="100" align="middle" />There are around
+                                                            10,000 living species of birds that inhabit
+                                                            different ecosystems from the Arctic to the
+                                                            Antarctic. Many species undertake long distance
+                                                            annual migrations, and many more perform shorter
+                                                            irregular journeys.</p><hr />
+
+               <p><img src="images/bird.gif" alt="Bird" width="100"
+                           height="100" align="bottom" />There are around
+                                                         10,000 living species of birds that inhabit
+                                                         different ecosystems from the Arctic to the
+                                                         Antarctic. Many species undertake long distance
+                                                         annual migrations, and many more perform shorter
+                                                         irregular journeys.</p>
+   
+   
+   
+   
+   ![align](vl.png)
+   
+   
+   
+   
+   
+   
+   
    
    
    
