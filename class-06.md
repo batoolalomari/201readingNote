@@ -73,10 +73,10 @@ As a browser loads a web page, it creates a model of that page. The model is cal
 It consists of four main types of nodes. 
 
 
-1- THE DOCUMENT NODE 
-2- ELEMENT NODES
-3- ATTRIBUTE NODES
-4- TEXT NODES
+1-THE DOCUMENT NODE 
+2-ELEMENT NODES
+3-ATTRIBUTE NODES
+4-TEXT NODES
 
 
    ![Dom](dom.png)
