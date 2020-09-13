@@ -14,7 +14,7 @@ This reading note is for a Code 201 where we will take about an _**introduction 
   [Read: 03 -](https://batoolalomari.github.io/201readingNote/class-03) | HTML Lists, CSS Boxes, JS Control Flow
   [Read: 04 -](https://batoolalomari.github.io/201readingNote/class-04) | HTML Links, CSS Layout, JS Functions
   [Read: 05 -](https://batoolalomari.github.io/201readingNote/class-05) | HTML Images; CSS Color & Text
-  Read: 06 - | JS Object Literals; The DOM
+  [Read: 06 -](https://batoolalomari.github.io/201readingNote/class-06) | JS Object Literals; The DOM
   Read: 07 - | HTML Tables; JS Constructor Functions
   Read: 08 - | More CSS Layout
   Read: 09 - | Forms and Events
@@ -27,3 +27,5 @@ This reading note is for a Code 201 where we will take about an _**introduction 
   
   
        
+
+
