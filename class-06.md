@@ -37,5 +37,19 @@ booked rooms from the total number of rooms.
 
 
 
+### Creating an object literal notation
+
+Literal is a way for creating an object.
+
+
+   ![literal](lit.png)
+
+
+### Accessing an object 
+
+Using **dot notation** we can access the object properties and methods.
+
+
+   ![access](acc.png)
 
 
