@@ -86,3 +86,23 @@ Even if a cell has no content, you should still use a < td > or < th > element t
 
 
 
+# Constructor
+
+
+The **new **key word and the object constructor create a blank object , you can then add proparities and methods to the object .
+
+
+![constructor](cons.png)
+
+
+### Updating an object 
+
+To update the value of properities , use **dot notation** or **square brackets** .
+To **Delete proparities** use delete keyword
+
+![update](update.png)
+
+
+
+
+
