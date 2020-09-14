@@ -95,12 +95,26 @@ The **new **key word and the object constructor create a blank object , you can 
 ![constructor](cons.png)
 
 
-### Updating an object 
+## Updating an object 
 
 To update the value of properities , use **dot notation** or **square brackets** .
 To **Delete proparities** use delete keyword
 
 ![update](update.png)
+
+
+## CREATING MANY OBJECTS:
+
+**CONSTRUCTOR NOTATION**
+
+Sometimes you will want several objects to represent similar things. Object constructors can use a function as a template for creating objects.vFirst, create the template with the object's properties and methods.
+
+
+![instance](ins.png)
+
+
+
+
 
 
 
