@@ -25,7 +25,57 @@ There are several types of form controls that you can use to collect information
 
 ![form](work.png)
 
-sl
+
+
+
+A form may have several form controls, each gathering different information. The server needs to know which piece of inputted data corresponds with which form element.
+
+
+## Form Structure
+
+![form](fors.png)
+
+
+### Text Input
+
+![form](text.png)
+
+
+
+### Password Input
+
+![form](fpass.png)
+
+
+
+### Text Area
+
+![form](area.png)
+
+
+### Radio Button
+
+![form](rad.png)
+
+
+
+### Checkbox Button
+
+![form](cheh.png)
+
+
+
+### DropDown List Box
+
+![form](dro.png)
+
+
+
+### Multiple Select Box
+
+
+![form](mul.png)
+
 
 
 
