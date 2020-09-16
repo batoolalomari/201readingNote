@@ -17,7 +17,7 @@ This reading note is for a Code 201 where we will take about an _**introduction 
   [Read: 06 -](https://batoolalomari.github.io/201readingNote/class-06) | JS Object Literals; The DOM
   [Read: 07 -](https://batoolalomari.github.io/201readingNote/class-07) | HTML Tables; JS Constructor Functions
   [Read: 08 -](https://batoolalomari.github.io/201readingNote/class-08) | More CSS Layout
-  Read: 09 - | Forms and Events
+  [Read: 09 -](https://batoolalomari.github.io/201readingNote/class-09) | Forms and Events
   Read: 10 - | JS Debugging
   Read: 11 - | Assorted Topics
   Read: 12 - | Docs for the HTML (canvas) Element & Chart.js
