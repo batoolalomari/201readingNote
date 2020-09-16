@@ -61,7 +61,7 @@ A form may have several form controls, each gathering different information. The
 
 ### Checkbox Button
 
-![form](cheh.png)
+![form](che.png)
 
 
 
@@ -77,5 +77,17 @@ A form may have several form controls, each gathering different information. The
 ![form](mul.png)
 
 
+
+
+
+# List, Table & Form 
+
+Nobody I know enjoys filling in forms, so if you can make yours look more attractive and easier to use, more people are likely to fill it in. Also, when you come to look at a form in a few different browsers, you will see that
+each browser displays them differently.
+CSS is commonly used to control the appearance of form elements. This is both to make them more attractive and to make them more consistent across different browsers It is most common to style:
+
+● Text inputs and text areas
+● Submit buttons
+● Labels on forms, to get the form controls to align nicely
 
 
