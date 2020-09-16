@@ -194,7 +194,29 @@ CSS is commonly used to control the appearance of form elements. This is both to
           
           
  
-          
+# Events 
+
+When you browse the web, your browser registers different types of events. It's the browser's way of saying, "Hey, this just happened." Your script can then respond to these events.
+Scripts often respond to these events by updating the content of the web page (via the Document Object Model) which makes the page feel more interactive.
+
+
+Here is a selection of the events that occur in the browser while you are browsing the web. Any of these events can be used to trigger a function in your JavaScript code.
+
+
+![event](ev.png)
+
+
+
+![event](eve.png)
+
+
+
+### HOW EVENTS TRIGGER JAVASCRIPT CODE
+
+When the user interacts with the HTML on a web page, there are three steps involved in getting it to trigger some JavaScript code. Together these steps are known as event handling .
+
+
+![event](hand.png)
 
 
 
