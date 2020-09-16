@@ -50,5 +50,46 @@ JavaScript.
 ![reeor](err.png)
 
 
+### HOW TO DEAL WITH ERRORS
+
+1. DEBUG THE SCRIPT TO FIX ERRORS
+2. HANDLE ERRORS GRACEFULLY
+
+
+### LOGGING DATA TO THE CONSOLE
+
+![loading](lo.png)
+
+
+![loading](loa.png)
+
+
+### DEBUGGER KEYWORD
+
+You can create a breakpoint in your code using just the debugger keyword. When the developer tools are open, this will automatically create a breakpoint.
+You can also place the debugger keyword within a conditional statement so that it only triggersthe breakpoint if the condition is met.
+
+
+![dep](dep.png)
+
+### HANDLING EXCEPTIONS
+
+If you know your code might fail, use try, catch, and finally. Each one is given its own code block.
+
+               try {
+                   // Try to execute this code
+                   
+               }catch (exception) {
+                   // If there is an exception, run this code
+                   
+               }fina ll y {
+                  // This always gets executed
+               }
+
+![try](try.png)
+
+
+
+
 
 
