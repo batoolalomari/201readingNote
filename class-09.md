@@ -86,8 +86,28 @@ Nobody I know enjoys filling in forms, so if you can make yours look more attrac
 each browser displays them differently.
 CSS is commonly used to control the appearance of form elements. This is both to make them more attractive and to make them more consistent across different browsers It is most common to style:
 
-● Text inputs and text areas
-● Submit buttons
-● Labels on forms, to get the form controls to align nicely
+- Text inputs and text areas
+- Submit buttons
+- Labels on forms, to get the form controls to align nicely
+
+
+![form](fs.png)
+
+
+
+### Styling Text Inputs
+
+
+![form](fos.png)
+
+
+
+### Styling Submit Button
+
+![form](fsu.png)
+
+
+
+
 
 
