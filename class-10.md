@@ -15,11 +15,11 @@ To find the source of an error, it helps to know how scripts are processed. The 
 ![order](or.png)
 
 
-1-The greeting variable gets its value from the **greetUser()** function.
-2-**greetUser()** creates the message by combining the string 'He 11 o ' with the result of getName ().
-3-**getName ()** returns the name to greetUser() .
-2-**greetUser()** now knows the name, and combines it with the string. It then returns the message to the statement that ca lled it in step 1.
-1-The value of the greeting is stored in memory.
-4-This greeting variable is written to an alert box.
+1. The greeting variable gets its value from the **greetUser()** function.
+2. **greetUser()** creates the message by combining the string 'He 11 o ' with the result of getName ().
+3. **getName ()** returns the name to greetUser() .
+2. **greetUser()** now knows the name, and combines it with the string. It then returns the message to the statement that ca lled it in step 1.
+1. The value of the greeting is stored in memory.
+4. This greeting variable is written to an alert box.
 
 
