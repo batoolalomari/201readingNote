@@ -23,3 +23,32 @@ To find the source of an error, it helps to know how scripts are processed. The 
 4. This greeting variable is written to an alert box.
 
 
+## The Stack
+
+The JavaScript interpreter processes one line of code at a time. when a statement needs data from another function it stacks the new function on top of the current task.
+
+![stack](st.png)
+
+
+## EXECUTION CONTEXT & HOISTING
+
+Each time a script enters a new execution context, there are two phases of activity:
+
+![exe](ho.png)
+
+
+## ERROR OBJECTS
+
+Error objects can help you find where your mistakes are and browsers have tools to help you read them.
+
+When an Er ror object is created, it will contain the following properties and there are seven types of built-in error objects in
+JavaScript.
+
+
+![reeor](er.png)
+
+![reeor](err.png)
+
+
+
+
