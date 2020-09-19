@@ -30,7 +30,7 @@ There are two ways that this is commonly achieved:
 
 2. New classes are created with names such as align-left or align-right to align the images to the left or right of the page. These class names are used in addition to classes that indicate the size of the image.
 
-# Html Ex:
+  ### Html Ex:
 
         <p><img src="images/magnolia-medium.jpg"
                   alt="Magnolia" class="align-left medium" />
@@ -43,7 +43,7 @@ There are two ways that this is commonly achieved:
                                               early in the spring before the leaves open...</p>
 
 
-# CSS EX:
+  ### CSS EX:
 
          img.align-left {
                       float: left;
@@ -74,6 +74,16 @@ Once it has been made into a block-level element, there are two common ways in w
 
 
 ## Adding background images
+The background-image property allows you to place an image behind any HTML element. This could be the entire page or just part of the page. By default, a background image will repeat to fill the entire box.
+The path to the image follows the letters url, and it is put inside parentheses and quotes
+
+![back](back.png)
+
+  ### Contrast of background images
+  
+  If you want to overlay text on a background image, the image must be low contrast in order for the text to be legible.
+  
+  ![back](kon.png)
 
                   
    
