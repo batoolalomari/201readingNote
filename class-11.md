@@ -98,12 +98,14 @@ consider how many sites link to you (and how relevant those links are).
 For this reason, SEO is often split into two areas:
 
 1. on-page techniques 
-  On-page techniques are the methods you can use on your web pages to improve their rating in search engines. The main component of this is
-looking at keywords that people are likely to enter into a search engine if they wanted to find your site, and then including these in the text and HTML code for your site in order to help the search engines know that your site covers these topics.
+
+   On-page techniques are the methods you can use on your web pages to improve their rating in search engines. The main component of this is
+   looking at keywords that people are likely to enter into a search engine if they wanted to find your site, and then including these in the text and HTML code for your site in    order to help the search engines know that your site covers these topics.
 
 2. off-page techniques.
-  Getting other sites to link to you is just as important as on-page techniques. Search engines help determine how to rank your site by looking at the number of other sites that link to yours. Search engines also look at the
-words between the opening < a > tag and closing < /a > tag in the link. If the text in the link contains keywords (rather than just click here or your website address) it may be considered more relevant. The words that appear in links to your site should also appear in the text of the page that the site links to.
+ 
+   Getting other sites to link to you is just as important as on-page techniques. Search engines help determine how to rank your site by looking at the number of other sites        that link to yours. Search engines also look at the
+   words between the opening < a > tag and closing < /a > tag in the link. If the text in the link contains keywords (rather than just click here or your website address) it may    be considered more relevant. The words that appear in links to your site should also appear in the text of the page that the site links to.
 
 
 ![engin](eng.png)
@@ -123,8 +125,8 @@ words between the opening < a > tag and closing < /a > tag in the link. If the t
      There are several tools that let you enter your keywords and then they will suggest additional keywords you might like to consider, such as:
      **adwords.google.co.uk/ select/KeywordToolExternal**
      (When using this tool, select the "exact match" option rather than "broad match.")
-      **[REsearch Tool](www.wordtracker.com)**
-      **[REsearch Too](www.keyworddiscovery.com)**
+      - **[REsearch Tool](www.wordtracker.com)**
+      - **[REsearch Too](www.keyworddiscovery.com)**
 
   4. Compare
      It is very unlikely that your site will appear at the top of the search results for every keyword. This is especially true for topics where there is a lot of competition.        The more sites out there that have already been optimized for a given keyword, the harder it will be for you to rise up the search results when people search on that term.
@@ -133,12 +135,47 @@ words between the opening < a > tag and closing < /a > tag in the link. If the t
      Now you need to pick which keywords you will focus on. These should always be the ones that are most relevant to each section of your site.
      If there is a phrase that is very relevant but you find there is a lot of competition, you should still use it. To improve the chances of your site being found you can look      at whether there are other words that could be incorporated into a phrase.
      
-  6.MAP
+  6. MAP
     Now that you have a refined list of keywords, you know which have the most competition, and which ones are most relevant, it is time to start picking which keywords you will     use for each page. Pick 3-5 keywords or phrases that map to each page of your website and use these as the keywords for each page
   
 
 ## Using analytics to understand visitors
 
+As soon as people start coming to your site, you can start analyzing how they found it, what they were looking at and at what point they are leaving. One of the best tools for doing this is a free service offered by Google called Google Analytics.
+
+![ana](ana.png)
+
+The overview page gives you a snapshot of the key information you are likely to want to know. In particular, it tells you :
+
+1. How Many People Are Coming to Your Site?
+2. What Are Your Visitors Looking At?
+3. Where Are Your Visitors Coming From?
+
+![google](go.png)
 
 
 ## Putting your site on the web
+
+ In order to put your site on the web you will need a domain name and web hosting.
+ 
+ 1. DOMAIN NAMES 
+ 
+Your domain name is your web address (e.g. google.com or bbc. co.uk). 
+There are many websites that allow you to register domain names. Usually you will have to pay an annual fee to keep that domain name.
+These sites usually have a form that allows you to check whether your preferred domain name is available, and because millions
+of domain names have already been registered, it might take you a while to find the one that is right for your site.
+
+2. WEB HOSTING
+
+So that other people can see your site, you will need to upload it to a web server. Web servers are special computers that are constantly connected to the
+Internet. They are specially set up to serve web pages when they are requested.
+With the exception of some very large sites, most websites live on web servers run by web hosting companies. This is usually far cheaper and more reliable than trying to run your own web servers.
+
+
+
+
+
+
+
+
+
