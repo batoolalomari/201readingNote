@@ -176,6 +176,12 @@ Here is a minimalistic template, which we'll be using as a starting point for la
 
 
 
+You can drwaing shapes using this link [shapes](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes)
+
+You can drwaing text using this link[text](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes)
+
+
+
 	
 	
 	
