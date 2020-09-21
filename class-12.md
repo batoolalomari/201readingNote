@@ -145,3 +145,38 @@ The great things about Chart.js are that it’s simple to use and really very fl
 
 fOr THE cHART.JS DOC see this [chart.js](http://www.chartjs.org/docs/)
 
+
+# Basic usage of canvas
+
+  ## The < canvas > element
+  		
+		<canvas id="tutorial" width="150" height="150"></canvas>
+		
+  At first sight a < canvas > looks like the < img > element, with the only clear difference being that it doesn't have the src and alt attributes. Indeed, the < canvas > element has only two attributes, width and height. These are both optional and can also be set using DOM properties. When no width and height attributes are specified, the canvas will initially be 300 pixels wide and 150 pixels high. The element can be sized arbitrarily by CSS, but during rendering the image is scaled to fit its layout size: if the CSS sizing doesn't respect the ratio of the initial canvas, it will appear distorted.
+  
+  
+  ## The rendering context
+  The <canvas> element creates a fixed-size drawing surface that exposes one or more rendering contexts, which are used to create and manipulate the content shown. In this tutorial, we focus on the 2D rendering context. Other contexts may provide different types of rendering; for example, WebGL uses a 3D context based on OpenGL ES.
+
+The canvas is initially blank. To display something, a script first needs to access the rendering context and draw on it. The <canvas> element has a method called getContext(), used to obtain the rendering context and its drawing functions. getContext() takes one parameter, the type of context. For 2D graphics, such as those covered by this tutorial, you specify "2d" to get a CanvasRenderingContext2D.
+	
+	var canvas = document.getElementById('tutorial');
+	var ctx = canvas.getContext('2d');
+	
+## Checking for support
+
+![support](supp.png)
+
+
+## A skeleton template
+
+Here is a minimalistic template, which we'll be using as a starting point for later examples.
+
+![support](tem.png)
+
+
+
+	
+	
+	
+
