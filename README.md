@@ -22,7 +22,7 @@ This reading note is for a Code 201 where we will take about an _**introduction 
   [Read: 11 -](https://batoolalomari.github.io/201readingNote/class-11) | Assorted Topics
   [Read: 12 -](https://batoolalomari.github.io/201readingNote/class-12) | Docs for the HTML (canvas) Element & Chart.js
   [Read: 13 -](https://batoolalomari.github.io/201readingNote/class-13) | Local Storage
-  Read: 14 - | CSS Transforms, Transitions, and Animations
+  [Read: 14 -](https://batoolalomari.github.io/201readingNote/class-14) | CSS Transforms, Transitions, and Animations
   Read: 15 - | What Google Learned About Teams
   
   
