@@ -76,6 +76,33 @@ Using the rotateX value allows you to rotate an element around the x axis, as if
 
 ![2d](3tr.png)
 
+# Transitions 
+ to take place, an element must have a change in state, and different styles must be identified for each state. The easiest way for determining styles for different states is by using the :hover, :focus, :active, and :target pseudo-classes.
+ 
+ There are four transition related properties in total, including transition-property, transition-duration, transition-timing-function, and transition-delay. Not all of these are required to build a transition, with the first three are the most popular.
+ 
+ ![2d](trans.png)
+ 
+ 
+ **Transitional Properties**
+ 
+ ![2d](tp.png)
+ 
+ # Transition Duration
+ The duration in which a transition takes place is set using the transition-duration property. The value of this property can be set using general timing values, including seconds (s) and milliseconds (ms). These timing values may also come in fractional measurements, .2s for example.
+ 
+ ![2d](3du.png)
+ 
+ # Transition Timing
+ 
+  ![2d](tim.png)
+  
+  
+ 
+ 
+
+
+# Animations
 
 
 
