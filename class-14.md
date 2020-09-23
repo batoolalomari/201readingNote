@@ -97,12 +97,45 @@ Using the rotateX value allows you to rotate an element around the x axis, as if
  
   ![2d](tim.png)
   
-  
- 
- 
-
 
 # Animations
+
+when more control is required, transitions need to have multiple states. In return, this is where animations pick up where transitions leave off.
+
+# Animations Keyframes
+
+To set multiple points at which an element should undergo a transition, use the @keyframes rule. The @keyframes rule includes the animation name, any animation breakpoints, and the properties intended to be animated.
+
+![2d](an.png)
+
+![2d](ve.png)
+
+# Animation Name
+Once the keyframes for an animation have been declared they need to be assigned to an element. To do so, the animation-name property is used with the animation name, identified from the @keyframes rule, as the property value.
+
+![2d](aname.png)
+
+# Animation Duration, Timing Function, & Delay
+
+To start, animations need a duration declared using the animation-duration property. As with transitions, the duration may be set in seconds or milliseconds.
+
+![2d](dtime.png)
+
+A timing function and delay can be declared using the animation-timing-function and animation-delay properties respectively. The values for these properties mimic and behave just as they do with transitions.
+
+![2d](atime.png)
+
+for custmize animation [see this](https://learn.shayhowe.com/advanced-html-css/transitions-animations/#customizing-animations)
+
+
+
+
+
+
+
+
+
+
 
 
 
