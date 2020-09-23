@@ -48,7 +48,7 @@ skew, is used to distort elements on the horizontal axis, vertical axis, or both
 # Transform Origin
 The default transform origin is the dead center of an element, both 50% horizontally and 50% vertically. To change this default origin position the transform-origin property may be used.
 
-![2d](or.png)
+![2d](org.png)
 
 ![2d](org.png)
 
