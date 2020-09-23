@@ -30,6 +30,58 @@ Using the scale value within the transform property allows you to change the app
 
 
 # 2D Translate
+The translate value works a bit like that of relative positioning, pushing and pulling an element in different directions without interrupting the normal flow of the document. Using the translateX value will change the position of an element on the horizontal axis while using the translateY value will change the position of an element on the vertical axis
+
+
+![2d](tra.png)
+
+![2d](tr.png)
+
+# 2D Skew
+
+skew, is used to distort elements on the horizontal axis, vertical axis, or both.
+
+![2d](sk.png)
+
+![2d](ske.png)
+
+# Transform Origin
+The default transform origin is the dead center of an element, both 50% horizontally and 50% vertically. To change this default origin position the transform-origin property may be used.
+
+![2d](or.png)
+
+![2d](org.png)
+
+
+
+# 3D Transforms
+
+# 3D Rotate
+Using the rotateX value allows you to rotate an element around the x axis, as if it were being bent in half horizontally. Using the rotateY value allows you to rotate an element around the y axis, as if it were being bent in half vertically. Lastly, using the rotateZ value allows an element to be rotated around the z axis.
+
+![2d](3r.png)
+
+![2d](3ro.png)
+
+
+# 3D Scale
+
+![2d](3s.png)
+
+![2d](3sc.png)
+
+# 3D Translate
+
+![2d](3t.png)
+
+![2d](3tr.png)
+
+
+
+
+
+
+
 
 
 
